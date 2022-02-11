@@ -28,5 +28,5 @@ const UserList = () => {
         </div>
     );
 };
-//`https://api.themoviedb.org/3/movie/${moviesId[i]}?api_key=ed82f4c18f2964e75117c2dc65e2161d&language=fr-FR`
+
 export default UserList;
